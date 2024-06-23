@@ -77,9 +77,34 @@ The data is organized as zip files, each file has CSV data for a specific month
 
 I used Power Query in Excel to merge 12 CSV files that correspond to the months of the year into one file. After merging, the dataset has 5,667,717 rows.
 
+![Screenshot (33)](https://github.com/monzirzomrawi/How-does-a-bike-share-navigate-speedy-success-/assets/172976501/8002e05c-be3a-4f49-9927-4d95f41d2c07)
+
+
 Now, the data is ready for cleaning
 
 
+# Data processing.
+I used only Power query in EXCEL for data cleaning because normal EXCEL sheet can’t show this 5 million rows data.
+
+- I deleted the column "Source_Name".
+  
+- I used Power Query’ s add column feature to add a new column "day_of_week" from "started_at" column. = screen 16
+  
+- I found that each ride_id is unique.
+  
+- I added another column "month" to show the month of the year for each ride. = screen 21
+  
+- some columns like "start_station_name" and "end_station_name" have blank values.
+  
+- I replaced each blank value with "Not Available" because deleting the rows that have blank values in some columns will reduce the amount of my data.
+  
+- I used Power Query’ s add column feature to add  a custom column "duration_of_ride_length". = screen 17
+  
+- From the "duration_of_ride_length" column, I added two new columns "minutes" and "seconds".
+  
+- I added another new column "ride_length" to determine the length of the bike ride in minutes = screen = screen 18
+
+- I closed Power Query, and loaded the data. I view my data as a connection because Excel table can’t show 5 million rows data = screen 19
 
 
 
