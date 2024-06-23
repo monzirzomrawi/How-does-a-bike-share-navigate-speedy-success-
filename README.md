@@ -118,15 +118,21 @@ I used only Power query in EXCEL for data cleaning because normal EXCEL sheet ca
 
 
 
-Analyzing and Visualizing the Data
-In the fourth phase (Analyze) I will analyze the data to find the relationships between the columns to get the required insights which will help me solve my main questions also I will provide data visualization of my insights to highlight my findings.
-Analyzing and Visualizing the Date
+# Analyzing and Visualizing the Data
 
-•	Each time I created a chart, I will insert a pivot table and a recommended chart = screen 20
-•	I computed the total number of rides for casual and member riders= screen 24          result = in 2022, member riders use bikes more frequently than casual riders
-•	I computed the average ride length for casual and member riders = screen 23  = result = in 2022, casual riders use bikes for longer period of time than member riders
-•	I computed the total number of rides for casual and member riders by day = screen 25 = result = on Saturday , casual riders use bikes more frequently followed by Sunday
-•	I computed the sum of ride length for casual and member riders by day = screen 27 = result = on Saturday , casual riders use bikes for longer period of time followed by Sunday while member riders have the most on Thursday
-•	I computed the total number of rides for casual and member riders by month of the year = screen 29 = result = in july casual riders use bikes more frequently followed by june while member riders have august the most
-•	 I computed the sum of ride length for casual and member riders by month = screen 28 = result = in july, casual riders use bikes for longer period of time followed by june. member riders have the most in july too
-•	Total Number of Rides by Bike Type for Casual and Member = screen 30 = result = casual riders use electric bike more frequently while member use classic bike the most
+
+- Each time I created a chart, I will insert a pivot table and a recommended chart = screen 20
+  
+- I computed the total number of rides for casual and member riders= screen 24          result = in 2022, member riders use bikes more frequently than casual riders
+  
+- I computed the average ride length for casual and member riders = screen 23  = result = in 2022, casual riders use bikes for longer period of time than member riders
+  
+- I computed the total number of rides for casual and member riders by day = screen 25 = result = on Saturday , casual riders use bikes more frequently followed by Sunday
+  
+- I computed the sum of ride length for casual and member riders by day = screen 27 = result = on Saturday , casual riders use bikes for longer period of time followed by Sunday while member riders have the most on Thursday
+  
+- I computed the total number of rides for casual and member riders by month of the year = screen 29 = result = in july casual riders use bikes more frequently followed by june while member riders have august the most
+  
+  - I computed the sum of ride length for casual and member riders by month = screen 28 = result = in july, casual riders use bikes for longer period of time followed by june. member riders have the most in july too
+    
+- Total Number of Rides by Bike Type for Casual and Member = screen 30 = result = casual riders use electric bike more frequently while member use classic bike the most
