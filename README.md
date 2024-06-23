@@ -122,6 +122,8 @@ I used only Power query in EXCEL for data cleaning because normal EXCEL sheet ca
 
 
 - Each time I created a chart, I will insert a pivot table and a recommended chart = screen 20
+
+  ![Screenshot (39)](https://github.com/monzirzomrawi/How-does-a-bike-share-navigate-speedy-success-/assets/172976501/ad49d6c4-edb1-43da-bc51-8404582793a1)
   
 - I computed the total number of rides for casual and member riders= screen 24          result = in 2022, member riders use bikes more frequently than casual riders
   
