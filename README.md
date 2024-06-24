@@ -125,16 +125,59 @@ I used only Power query in EXCEL for data cleaning because normal EXCEL sheet ca
 
   ![Screenshot (39)](https://github.com/monzirzomrawi/How-does-a-bike-share-navigate-speedy-success-/assets/172976501/ad49d6c4-edb1-43da-bc51-8404582793a1)
   
-- I computed the total number of rides for casual and member riders= screen 24          result = in 2022, member riders use bikes more frequently than casual riders
+- I computed the total number of rides for casual and member riders= screen 24.
+
+![Screenshot (40)](https://github.com/monzirzomrawi/How-does-a-bike-share-navigate-speedy-success-/assets/172976501/5de4d426-9361-4538-acc0-d8f7327ddb19)
+
+   In 2022, member riders use bikes more frequently than casual riders.
   
-- I computed the average ride length for casual and member riders = screen 23  = result = in 2022, casual riders use bikes for longer period of time than member riders
+- I computed the average ride length for casual and member riders.
+
+![Screenshot (41)](https://github.com/monzirzomrawi/How-does-a-bike-share-navigate-speedy-success-/assets/172976501/70892a81-cde5-4617-a57b-c211d91e8964)
+
+    In 2022, casual riders use bikes for longer period of time than member riders.
   
-- I computed the total number of rides for casual and member riders by day = screen 25 = result = on Saturday , casual riders use bikes more frequently followed by Sunday
+- I computed the total number of rides for casual and member riders by day.
+
+![Screenshot (42)](https://github.com/monzirzomrawi/How-does-a-bike-share-navigate-speedy-success-/assets/172976501/8af5a466-d0fd-4dab-bf7e-10d6b6266d25)
+
+ On Saturday , casual riders use bikes more frequently followed by Sunday.
   
-- I computed the sum of ride length for casual and member riders by day = screen 27 = result = on Saturday , casual riders use bikes for longer period of time followed by Sunday while member riders have the most on Thursday
+- I computed the sum of ride length for casual and member riders by day.
+
+![Screenshot (43)](https://github.com/monzirzomrawi/How-does-a-bike-share-navigate-speedy-success-/assets/172976501/2210d306-db54-4e55-ac11-1bca942626ad)
+
+  On Saturday , casual riders use bikes for longer period of time followed by Sunday while member riders have the most on Thursday.
   
-- I computed the total number of rides for casual and member riders by month of the year = screen 29 = result = in july casual riders use bikes more frequently followed by june while member riders have august the most
+- I computed the total number of rides for casual and member riders by month of the year.
+
+![Screenshot (44)](https://github.com/monzirzomrawi/How-does-a-bike-share-navigate-speedy-success-/assets/172976501/ae3bfcd6-d7f1-44e6-9943-1eef07f61407)
+
+  In July casual riders use bikes more frequently followed by June while member riders have August the most.
   
-  - I computed the sum of ride length for casual and member riders by month = screen 28 = result = in july, casual riders use bikes for longer period of time followed by june. member riders have the most in july too
+  - I computed the sum of ride length for casual and member riders by month
+  
+  ![Screenshot (45)](https://github.com/monzirzomrawi/How-does-a-bike-share-navigate-speedy-success-/assets/172976501/ad413da5-c42b-4ded-ab82-989a7630a28c)
+  
+    In july, casual riders use bikes for longer period of time followed by June. Member riders have the most in July too
     
-- Total Number of Rides by Bike Type for Casual and Member = screen 30 = result = casual riders use electric bike more frequently while member use classic bike the most
+- Total Number of Rides by Bike Type for Casual and Member.
+
+![Screenshot (46)](https://github.com/monzirzomrawi/How-does-a-bike-share-navigate-speedy-success-/assets/172976501/83395ca9-ecfb-4bb3-acea-93f4ebe6d3f3)
+
+  Casual riders use electric bike more frequently while member use classic bike the most.
+
+# My recommendations based on my analysis
+- Increasing the number of electric bike because casual riders use it the most.
+
+- Since casual riders use bikes more frequently and for longer period of time on Saturday and Sunday, encouraging casual riders to become members on these two days is a good idea .
+
+
+- Since casual riders use bikes more frequently and for longer period of time in July and June, 
+encouraging casual riders to become members in these two months is a good idea.
+
+
+ 
+Thank you for taking time to review my first capstone project! I learned a lot from it because I used real-world data and business questions. I completed the entire project using only Excel.
+
+  
